@@ -8,7 +8,7 @@ public:
     int getR() ;
 
     void setCenter(Point center);
-    Point getCenter();
+    Point getCenter() ;
 
 private:
     int m_R;
